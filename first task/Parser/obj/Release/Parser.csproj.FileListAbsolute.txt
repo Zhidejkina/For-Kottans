@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Parser\Parser\bin\Release\Parser.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Parser\Parser\bin\Release\Parser.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Parser\Parser\bin\Release\Parser.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Parser\Parser\obj\Release\Parser.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Parser\Parser\obj\Release\Parser.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Parser\Parser\obj\Release\Parser.csprojResolveAssemblyReference.cache
+D:\projects c\Parser\Parser\bin\Release\Parser.exe.config
+D:\projects c\Parser\Parser\obj\Release\Parser.exe
+D:\projects c\Parser\Parser\obj\Release\Parser.pdb
+D:\projects c\Parser\Parser\bin\Release\Parser.exe
+D:\projects c\Parser\Parser\bin\Release\Parser.pdb
+D:\projects c\Parser\Parser\obj\Release\Parser.csprojResolveAssemblyReference.cache

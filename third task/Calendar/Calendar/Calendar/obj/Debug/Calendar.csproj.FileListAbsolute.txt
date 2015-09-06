@@ -1,0 +1,14 @@
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\bin\Debug\Calendar.exe.config
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\bin\Debug\Calendar.exe
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\bin\Debug\Calendar.pdb
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\App.g.cs
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\MainWindow.baml
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar.g.resources
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar.exe
+c:\users\nata\documents\visual studio 2015\Projects\cottans\calendar\Calendar\Calendar\obj\Debug\Calendar.pdb
